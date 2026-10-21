@@ -7,7 +7,7 @@ The project aims to create a reliable record of registered artworks, preserve ar
 **Project status:** Under development. Existing Raspberry Pi functionality is the foundation of the new platform. Features described as planned are not considered operational until implemented and tested.
 
 ---
-
+...................................................................................................................................................
 ## 1. Project Objectives
 
 * Assign a unique NOVA ID to every registered artwork.
